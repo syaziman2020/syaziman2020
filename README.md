@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @syaziman2020
-- 👀 I’m interested in mobile developer, web developer, and gamedev
-- 🌱 I’m currently learning java, python, and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/uray-syaziman-474167205
+
+# Halo semua! 
+Perkenalkan nama saya **Uray Syaziman Kesuma Wijaya**.\
+Saya seorang mahasiswa dari Universitas Tanjungpura
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/uray-syaziman-474167205)ku ya.
+ 
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!---
 syaziman2020/syaziman2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
