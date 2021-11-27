@@ -1,7 +1,7 @@
 
 # Halo semua! 
 Perkenalkan nama saya **Uray Syaziman Kesuma Wijaya**.\
-Saya seorang mahasiswa dari Universitas Tanjungpura
+Saya seorang mahasiswa dari Universitas Tanjungpura,
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/uray-syaziman-474167205)ku ya.
  
 <p align="left">
