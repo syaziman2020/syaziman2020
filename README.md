@@ -7,7 +7,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <p align="left">
 <a href="https://github.com/syaziman2020">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/apiusername=syaziman2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syaziman2020&layout=compact&langs_count=8&theme=algolia"/>
+  
 </a>
 </p>
 
